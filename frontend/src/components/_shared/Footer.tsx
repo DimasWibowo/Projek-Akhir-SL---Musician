@@ -40,7 +40,7 @@ const Footer = () => {
           {icons}
         </div>
         <div className="text-center">
-          <span className="text-gray-500 text-sm">Copyright &copy; 2023 Mari Bermusik</span>
+          <span className="text-gray-500 text-sm">Copyright &copy; 2023 Scripting Language</span>
         </div>
       </div>
     </div>

@@ -1,4 +1,4 @@
-import character from "../../assets/character.webp";
+import character from "../../assets/character.png";
 import TransitionIn from "../_shared/TransitionIn";
 
 

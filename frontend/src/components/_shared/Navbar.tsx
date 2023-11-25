@@ -63,9 +63,8 @@ const Navbar = (props: IProps) => {
         </Link>
       </div>
       <div className="hidden xl:block 2xl:text-[1.5vw] md:text-2xl text-sm mt-auto mb-auto ms-4 font-bold cursor-pointer">
-        <span className="text-green-900 hover:text-black duration-200">Mari</span>
-        <span className="text-green-200 hover:text-green-300 duration-200">Bermusik</span>
-        <span className="text-green-900 hover:text-black duration-200">.</span>
+        <span className="text-green-900 hover:text-black duration-200">Melodi</span>
+        <span className="text-green-200 hover:text-green-300 duration-200">Mate</span>
       </div>
     </div>
   );
